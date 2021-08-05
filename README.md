@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allison-disney
 - 👀 I’m interested in practicing Python and R
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on any Python or R programming or visualizations.  Special interest in Tennis, Baby Names, and Disney.
+- 💞️ I’m looking to collaborate on any Python or R programming or visualizations.  Special interest in Tennis, Broadway, Baby Names, and Disney.
 - 📫 How to reach me: Allison.Snyder@outlook.com
 
 <!---
